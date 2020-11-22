@@ -20,7 +20,7 @@ body {
 .menu-container {
 	max-width: 960px;
 	margin: 0 auto;
-	/*overflow: hidden;*/
+	/*overflow: hidden; X clearFix*/
 }
 
 .menu-container:after, .menu-container:before {
